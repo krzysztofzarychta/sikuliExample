@@ -1,4 +1,4 @@
 sikuliExample
 =============
 
-Sikuli firefox driver example
+Sikuli firefox driver example :)
